@@ -9,7 +9,7 @@ To run the application locally, follow these steps:
 1. Clone this repository to your local machine:
 
     ```bash
-    [git clone https://github.com/abhinayperala/21BD1A6604.git](https://github.com/abhinayperala/E-Commerce-Website.git)
+    git clone https://github.com/abhinayperala/E-Commerce-Website.git
     ```
 
 2. Navigate to the backend and frontend directories:
